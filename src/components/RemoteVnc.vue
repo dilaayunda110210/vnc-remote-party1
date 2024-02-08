@@ -3,7 +3,7 @@ import { ref, defineProps } from "vue";
 import ArrowCircleIcon from "./icon/ArrowCircleIcon.vue";
 import RefreshIcon from "./icon/RefreshIcon.vue";
 
-const isUp = ref(false);
+const isUp = ref(true);
 const isRotate = ref(false);
 const isActive = ref(false);
 const vncIframe = ref(null);
