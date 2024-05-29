@@ -35,7 +35,7 @@ function handleClick(n) {
 
 <style>
 body {
-  background-color: black;
+  background-color: white;
   margin: 0;
 }
 
