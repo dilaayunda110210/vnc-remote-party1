@@ -50,7 +50,7 @@ function reloadIframe() {
 .container-vnc {
   width: 900px;
   height: 550px;
-  border: 2px solid #828282;
+  border: 2px solid #f0f0f0;
   position: relative;
   overflow: hidden;
   transition: 0.5s ease;
