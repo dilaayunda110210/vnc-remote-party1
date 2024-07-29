@@ -61,7 +61,7 @@ function reloadIframe() {
 }
 
 .container-vnc.up {
-  height: 275px;
+  height: 137px;
   /* height: 550px; */
 }
 
@@ -78,7 +78,7 @@ function reloadIframe() {
 .vnc-barrier {
   width: 100%;
   /* height: 460px; */
-  height: 185px;
+  height: 47px;
   background: white;
   position: absolute;
   top: 0px;
