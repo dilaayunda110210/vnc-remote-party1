@@ -10,7 +10,7 @@ export const vncList = [
   { vncLink: "https://cy9gzv-3000.csb.app" },
   { vncLink: "https://9l5rfy-3000.csb.app" },
   { vncLink: "https://kfr68g-3000.csb.app" },
-  { vncLink: "https://tlvrc4-3000.csb.app" },
+  { vncLink: "https://km9hsp-3000.csb.app" },
 ];
 
 // export const vncList = [
